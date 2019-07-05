@@ -1,4 +1,5 @@
-# Design-of-Multiband-Negative-Permittivity-Metamaterial-Based-on-Interdigitated-and-Meander-Line-Reso
+# Design-of-Multiband-Negative-Permittivity-Metamaterial-Based-on-Interdigitated-and-Meander-Line-Reso 
+Multiband neagtive permittivity metamaterial is designed based on square ring, interdigitated and meander line structure.
 HFSS tool is used to design negative multiband metamaterial with PEC and PMC boundary conditions.
 HFSS tool gives us s-parameters values at each frequency (S11, S21 both magnitude and phase).
 These S-parameter values are processed under Kramers-Kronig relationship to get values of permittivity and permeability at each frequency.
